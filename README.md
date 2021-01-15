@@ -14,4 +14,4 @@ dependencies: inquirer
 devDependencies: jest
 
 
-<img src="assets/scrsht1.png" width="70%" alt="Employee Summary Pic" >
+<img src="Assets/scrsht1.png" width="70%">
